@@ -4,8 +4,8 @@ This is a Mernis panel template created using HTML, CSS, and JavaScript. It incl
 
 ## Preview
 
-![Preview](images/index.jpeg)
-![Preview2](images/panel.jpeg)
+![Preview](index.jpeg)
+![Preview2](panel.jpeg)
 
 ## Getting Started
 
